@@ -1,4 +1,4 @@
-#navigation {
-    float: right;
-    display: inline;
+.inline-block {
+    display: inline-block;
+    
 }
